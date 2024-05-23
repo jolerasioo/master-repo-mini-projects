@@ -1,6 +1,6 @@
 # Containerizing Google Tag Manager with Azure Container Apps
 
-This repository contains the instructions and files to set up Google Tag Manager for Google Analytics on Azure Container Apps.
+This repository contains the instructions and files to set up Google Tag Manager for Google Analytics on Azure Container Apps. It leverages a sample Blazor .NET app and contains the necessary Bicep IaC to run it.
 
 (insert arhcitecture and links)
 
