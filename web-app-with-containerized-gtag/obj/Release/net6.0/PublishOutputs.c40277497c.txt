@@ -1,0 +1,11 @@
+C:\Users\josealonso\source\repos\cs_training\BlazorAppUK\bin\Release\net6.0\publish\BlazorApp1.exe
+C:\Users\josealonso\source\repos\cs_training\BlazorAppUK\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\josealonso\source\repos\cs_training\BlazorAppUK\bin\Release\net6.0\publish\appsettings.json
+C:\Users\josealonso\source\repos\cs_training\BlazorAppUK\bin\Release\net6.0\publish\BlazorApp1.dll
+C:\Users\josealonso\source\repos\cs_training\BlazorAppUK\bin\Release\net6.0\publish\BlazorApp1.deps.json
+C:\Users\josealonso\source\repos\cs_training\BlazorAppUK\bin\Release\net6.0\publish\BlazorApp1.runtimeconfig.json
+C:\Users\josealonso\source\repos\cs_training\BlazorAppUK\bin\Release\net6.0\publish\BlazorApp1.pdb
+C:\Users\josealonso\source\repos\cs_training\BlazorAppUK\bin\Release\net6.0\publish\Azure.Core.dll
+C:\Users\josealonso\source\repos\cs_training\BlazorAppUK\bin\Release\net6.0\publish\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\josealonso\source\repos\cs_training\BlazorAppUK\bin\Release\net6.0\publish\System.Diagnostics.DiagnosticSource.dll
+C:\Users\josealonso\source\repos\cs_training\BlazorAppUK\bin\Release\net6.0\publish\System.Memory.Data.dll

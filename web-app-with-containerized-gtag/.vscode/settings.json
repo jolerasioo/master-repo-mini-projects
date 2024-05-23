@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net6.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/cb72b49c-6479-4ec7-891f-f18be9ee10f2/resourceGroups/haleon-web-tag/providers/Microsoft.Web/sites/webapp-gtag"
+}
