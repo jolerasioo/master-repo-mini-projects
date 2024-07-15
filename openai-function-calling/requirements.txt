@@ -1,0 +1,8 @@
+openai
+pandas
+openai-functools
+tenacity
+termcolor
+python-dotenv
+sqlalchemy
+datetime
