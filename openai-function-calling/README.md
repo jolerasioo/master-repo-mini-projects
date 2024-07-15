@@ -9,4 +9,4 @@ This is a repository to play with OpenAI Function Calling. The goals are:
 ## Get started
 1. run `.venv\Script\Activate.ps1` on a powershell terminal to activate the virtual environment
 2. if running for the first time, run `pip install -r requirements.txt`
-3. run ``python scr\main.py`
+3. run `python scr\main.py`
